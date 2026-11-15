@@ -1,6 +1,6 @@
 https://nudisco-ai.whoismister-e.workers.dev/
 https://nudisco-ai.whoismister-e.workers.dev/void
-https://nudisco-ai.whoismister-e.workers.dev/calender
+https://nudisco-ai.whoismister-e.workers.dev/time
 https://nudisco-ai.whoismister-e.workers.dev/astralinks
 https://nudisco-ai.whoismister-e.workers.dev/machine-map
 https://nudisco-ai.whoismister-e.workers.dev/registry
