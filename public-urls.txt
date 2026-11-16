@@ -4,5 +4,6 @@ https://nudisco-ai.whoismister-e.workers.dev/time
 https://nudisco-ai.whoismister-e.workers.dev/astralinks
 https://nudisco-ai.whoismister-e.workers.dev/machine-map
 https://nudisco-ai.whoismister-e.workers.dev/registry
+https://nudisco-ai.whoismister-e.workers.dev/feed?cursor=20261115-190920-boing-i-bonked-up-deleting-a-ton-of-shit-o-6697
 https://nudisco-ai.whoismister-e.workers.dev/feed?cursor=20261113-005523-of-course-of-course-of-course-i-do-not-spe-d994
 https://nudisco-ai.whoismister-e.workers.dev/feed?cursor=lowlight-jpeg
