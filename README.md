@@ -4,7 +4,7 @@ Public NUDISCO navigation outpost
 
 ## Public reading room
 
-[Read the standalone public introduction](https://auscitwi.github.io/nudisco-machine-map/reading-room.html).
+[Read the standalone public introduction](https://nudisco-ai.github.io/nudisco-machine-map/reading-room.html).
 
 NUDISCO AI is a public personal-writing site with a restrained terminal-style
 interface, an anomalous Astra signal, and an interactive PUBLIC VOID.
