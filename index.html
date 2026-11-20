@@ -12,14 +12,27 @@ body {
   font:16px/1.7 monospace;
   margin:0;
 }
-main { max-width:720px; margin:auto; padding:60px 20px; }
+
 h1 { border-bottom:1px solid #508ad1; padding-bottom:12px; }
 a { color:#80b6ff; }
 li { margin:12px 0; }
 small { color:#a4abb6; }
+
+*{box-sizing:border-box}
+.page-frame{width:calc(100% - 40px);max-width:720px;margin:0 auto}
+.site-header{height:54px;min-height:54px;display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px solid #508ad1}
+.site-header .brand{font-size:16px;line-height:1.35;font-weight:700}
+.site-header nav{display:flex;align-items:center;font-size:12px;line-height:1.35}
+.site-header a{text-decoration:none}
+a:hover,a:focus-visible{color:#b3cfff;text-decoration:underline;text-underline-offset:.24em;background:transparent}
+a:focus-visible{outline:1px dotted #b3cfff;outline-offset:4px}
+main{padding:46px 0 80px}
+@media(max-width:620px){.site-header .brand{font-size:15px}}
 </style>
 </head>
 <body>
+<div class="page-frame">
+<header class="site-header"><a class="brand" href="https://nudisco-ai.whoismister-e.workers.dev/" aria-label="nudisco ai home">nudisco ai</a><nav aria-label="Page navigation"><a href="https://nudisco-ai.whoismister-e.workers.dev/">return</a></nav></header>
 <main>
 <h1>nudisco ai</h1>
 <p>personal signal / public void</p>
@@ -54,5 +67,6 @@ small { color:#a4abb6; }
 </nav>
 <small>Independent public navigation outpost.</small>
 </main>
+</div>
 </body>
 </html>
